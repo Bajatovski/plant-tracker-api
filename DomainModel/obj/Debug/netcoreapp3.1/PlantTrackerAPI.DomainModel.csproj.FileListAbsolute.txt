@@ -1,0 +1,10 @@
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DomainModel\bin\Debug\netcoreapp3.1\PlantTrackerAPI.DomainModel.deps.json
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DomainModel\bin\Debug\netcoreapp3.1\PlantTrackerAPI.DomainModel.dll
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DomainModel\bin\Debug\netcoreapp3.1\PlantTrackerAPI.DomainModel.pdb
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DomainModel\obj\Debug\netcoreapp3.1\PlantTrackerAPI.DomainModel.csproj.AssemblyReference.cache
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DomainModel\obj\Debug\netcoreapp3.1\PlantTrackerAPI.DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DomainModel\obj\Debug\netcoreapp3.1\PlantTrackerAPI.DomainModel.AssemblyInfoInputs.cache
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DomainModel\obj\Debug\netcoreapp3.1\PlantTrackerAPI.DomainModel.AssemblyInfo.cs
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DomainModel\obj\Debug\netcoreapp3.1\PlantTrackerAPI.DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DomainModel\obj\Debug\netcoreapp3.1\PlantTrackerAPI.DomainModel.dll
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DomainModel\obj\Debug\netcoreapp3.1\PlantTrackerAPI.DomainModel.pdb

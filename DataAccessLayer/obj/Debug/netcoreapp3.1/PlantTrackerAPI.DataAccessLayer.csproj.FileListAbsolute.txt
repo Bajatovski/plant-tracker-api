@@ -1,0 +1,16 @@
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DataAccessLayer\bin\Debug\netcoreapp3.1\PlantTrackerAPI.DataAccessLayer.deps.json
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DataAccessLayer\bin\Debug\netcoreapp3.1\PlantTrackerAPI.DataAccessLayer.runtimeconfig.json
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DataAccessLayer\bin\Debug\netcoreapp3.1\PlantTrackerAPI.DataAccessLayer.runtimeconfig.dev.json
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DataAccessLayer\bin\Debug\netcoreapp3.1\PlantTrackerAPI.DataAccessLayer.dll
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DataAccessLayer\bin\Debug\netcoreapp3.1\PlantTrackerAPI.DataAccessLayer.pdb
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DataAccessLayer\bin\Debug\netcoreapp3.1\PlantTrackerAPI.DomainModel.dll
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DataAccessLayer\bin\Debug\netcoreapp3.1\PlantTrackerAPI.DomainModel.pdb
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DataAccessLayer\obj\Debug\netcoreapp3.1\PlantTrackerAPI.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DataAccessLayer\obj\Debug\netcoreapp3.1\PlantTrackerAPI.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DataAccessLayer\obj\Debug\netcoreapp3.1\PlantTrackerAPI.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DataAccessLayer\obj\Debug\netcoreapp3.1\PlantTrackerAPI.DataAccessLayer.AssemblyInfo.cs
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DataAccessLayer\obj\Debug\netcoreapp3.1\PlantTrackerAPI.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DataAccessLayer\obj\Debug\netcoreapp3.1\PlantTrackerAPI.DataAccessLayer.csproj.CopyComplete
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DataAccessLayer\obj\Debug\netcoreapp3.1\PlantTrackerAPI.DataAccessLayer.dll
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DataAccessLayer\obj\Debug\netcoreapp3.1\PlantTrackerAPI.DataAccessLayer.pdb
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DataAccessLayer\obj\Debug\netcoreapp3.1\PlantTrackerAPI.DataAccessLayer.genruntimeconfig.cache

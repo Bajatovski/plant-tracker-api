@@ -1,0 +1,13 @@
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DataTransferLayer\bin\Debug\netcoreapp3.1\PlantTrackerAPI.DataTransferLayer.deps.json
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DataTransferLayer\bin\Debug\netcoreapp3.1\PlantTrackerAPI.DataTransferLayer.dll
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DataTransferLayer\bin\Debug\netcoreapp3.1\PlantTrackerAPI.DataTransferLayer.pdb
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DataTransferLayer\bin\Debug\netcoreapp3.1\PlantTrackerAPI.DomainModel.dll
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DataTransferLayer\bin\Debug\netcoreapp3.1\PlantTrackerAPI.DomainModel.pdb
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DataTransferLayer\obj\Debug\netcoreapp3.1\PlantTrackerAPI.DataTransferLayer.csproj.AssemblyReference.cache
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DataTransferLayer\obj\Debug\netcoreapp3.1\PlantTrackerAPI.DataTransferLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DataTransferLayer\obj\Debug\netcoreapp3.1\PlantTrackerAPI.DataTransferLayer.AssemblyInfoInputs.cache
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DataTransferLayer\obj\Debug\netcoreapp3.1\PlantTrackerAPI.DataTransferLayer.AssemblyInfo.cs
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DataTransferLayer\obj\Debug\netcoreapp3.1\PlantTrackerAPI.DataTransferLayer.csproj.CoreCompileInputs.cache
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DataTransferLayer\obj\Debug\netcoreapp3.1\PlantTrackerAPI.DataTransferLayer.csproj.CopyComplete
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DataTransferLayer\obj\Debug\netcoreapp3.1\PlantTrackerAPI.DataTransferLayer.dll
+C:\Users\VioletaKaragunova\Projects\plant-tracker-api\DataTransferLayer\obj\Debug\netcoreapp3.1\PlantTrackerAPI.DataTransferLayer.pdb
